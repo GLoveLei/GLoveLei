@@ -1,10 +1,8 @@
-<a title="github" target="_blank" href="https://github.com/GLoveLei">
-<span>  </span>
-</div>
-<br /><br />
 <div align="center">
-<span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=GLoveLei" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLoveLei&layout=compact&langs_count=10&theme=merko" />
-<span>  </span>
+  <img  src="https://github-readme-stats.vercel.app/api?username=GLoveLei&show_icons=true&theme=radical&hide=contribs,prs" />
 </div>
 
+
+<div align="center">
+  <img  src="https://github-readme-streak-stats.herokuapp.com?user=dongyuanwai&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
+</div>
